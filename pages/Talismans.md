@@ -16,5 +16,7 @@ Note that some Talismans will be consumed upon use.
 | Talisman of the Traveller | 60% chance to give you Speed I for 3 minutes when sprinting | No |
 | Talisman of the Warrior | Gives you Strength III for 3 minutes once you get hit | Yes |
 | Talisman of the Knight | 30% chance to give you Regeneration IV for 5 seconds once you get hit | Yes |
+| Talisman of the Caveman | 50% chance to give you Haste III for 40 seconds when you mine a ore | No |
+| Talisman of the Wise | 20% chance to double any experience you gain | No |
 | Talisman of the Whirlwind | 60% chance to reflect Projectiles fired at you | No |
 | Talisman of the Wizard | Gives you Fortune IV or V but sometimes lowers other Enchantments | No |
